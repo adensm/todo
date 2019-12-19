@@ -38,7 +38,7 @@ body {
 
 button,
 input[type="checkbox"] {
-  outline: none;
+  outline: black;
 }
 
 .hidden {
@@ -311,7 +311,7 @@ label[for='toggle-all'] {
 
 .clear-completed,
 html .clear-completed:active {
-  float: right;
+    float: right;
   position: relative;
   line-height: 20px;
   text-decoration: none;
@@ -384,3 +384,4 @@ html .clear-completed:active {
 .author a {
   color: #b83f45;
 }
+
